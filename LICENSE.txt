@@ -1,0 +1,7 @@
+Copyright (c) 2025 OnesClub
+
+All rights reserved.
+
+This extension, Focus Analyzer, and its source code are proprietary and intended solely for demonstration, development, and Chrome Web Store submission purposes.
+
+Unauthorized use, reproduction, distribution, or modification of any part of this codebase is strictly prohibited without express permission from the author.
